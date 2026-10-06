@@ -149,7 +149,7 @@ window.LAB.students = [
   {
     "name": "Sayantee Roy",
     "status": "alumni",
-    "photo": "",
+    "photo": "assets/images/sayantee_roy.jpeg",
     "joined": "",
     "graduated": "Jul-2023",
     "expectedGraduation": "",

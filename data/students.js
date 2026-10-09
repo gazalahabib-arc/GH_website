@@ -43,8 +43,19 @@ window.LAB.students = [
     "joined": "July-2023",
     "graduated": "",
     "expectedGraduation": "",
-    "thesis": "",
+    "thesis": "Measurement-Constrained High-Resolution Aerosol Emission Inventories for Indian Industries and Heavy-Duty Trucks, and Predictive Modelling of Black Carbon Optics",
     "coSupervisor": " ",
+    "affiliation": ""
+  },
+  {
+    "name": "Rakhi Choudhary",
+    "status": "current",
+    "photo": "",
+    "joined": "July-2023",
+    "graduated": "",
+    "expectedGraduation": "",
+    "thesis": "Cost-effectiveness of air pollution mitigation in India",
+    "coSupervisor": "Prof. Sagnik Dey (CAS, IIT-D)",
     "affiliation": ""
   },
   {
@@ -54,7 +65,7 @@ window.LAB.students = [
     "joined": "July-2025",
     "graduated": "",
     "expectedGraduation": "",
-    "thesis": "",
+    "thesis": "TBD",
     "coSupervisor": " ",
     "affiliation": ""
   },
@@ -65,7 +76,7 @@ window.LAB.students = [
     "joined": "July-2025",
     "graduated": "",
     "expectedGraduation": "",
-    "thesis": "",
+    "thesis": "TBD",
     "coSupervisor": "Prof. Grisa Mocnik (University of Nova Gorica)",
     "affiliation": ""
   },
@@ -76,8 +87,19 @@ window.LAB.students = [
     "joined": "July-2025",
     "graduated": "",
     "expectedGraduation": "",
-    "thesis": "",
+    "thesis": "Sustainable emission pathways for India to achieve net zero",
     "coSupervisor": "Prof. Sagnik Dey (CAS, IIT-D)",
+    "affiliation": ""
+  },
+  {
+    "name": "Navya Verma",
+    "status": "current",
+    "photo": "assets/images/navya_verma.jpg",
+    "joined": "July-2026",
+    "graduated": "",
+    "expectedGraduation": "",
+    "thesis": "TBD",
+    "coSupervisor": " ",
     "affiliation": ""
   },
   {

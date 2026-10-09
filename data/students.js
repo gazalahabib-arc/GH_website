@@ -160,7 +160,7 @@ window.LAB.students = [
   {
     "name": "Lovleen Gupta",
     "status": "alumni",
-    "photo": "assets/images/lovleen_gupta.jpeg",
+    "photo": "assets/images/lovleen_gupta.jpg",
     "joined": "",
     "graduated": "Oct-2022",
     "expectedGraduation": "",

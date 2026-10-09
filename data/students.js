@@ -39,7 +39,7 @@ window.LAB.students = [
   {
     "name": "Karigowda",
     "status": "current",
-    "photo": "",
+    "photo": "assets/images/karegowda.jpg",
     "joined": "July-2023",
     "graduated": "",
     "expectedGraduation": "",

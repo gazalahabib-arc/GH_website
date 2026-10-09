@@ -94,7 +94,7 @@ window.LAB.students = [
   {
     "name": "Navya Verma",
     "status": "current",
-    "photo": "assets/images/navya_verma.jpg",
+    "photo": "assets/images/navya_verma.jpeg",
     "joined": "July-2026",
     "graduated": "",
     "expectedGraduation": "",

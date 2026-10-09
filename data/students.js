@@ -28,7 +28,7 @@ window.LAB.students = [
   {
     "name": "Mohd Yousuf Subair",
     "status": "current",
-    "photo": "",
+    "photo": "assets/images/mohd_yousuf.jpeg",
     "joined": "Jan-2023",
     "graduated": "",
     "expectedGraduation": "",

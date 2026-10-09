@@ -6,7 +6,7 @@ window.LAB.students = [
   {
     "name": "Mohd Haneef",
     "status": "current",
-    "photo": "",
+    "photo": "assets/images/haneef.jpeg",
     "joined": "Jun-2018",
     "graduated": "",
     "expectedGraduation": "",
@@ -116,7 +116,7 @@ window.LAB.students = [
   {
     "name": "Gaurav Singh",
     "status": "alumni",
-    "photo": "assets/images/gaurav_singh.jpg",
+    "photo": "assets/images/gaurav_singh.jpeg",
     "joined": "",
     "graduated": "Oct-2018",
     "expectedGraduation": "",
@@ -160,7 +160,7 @@ window.LAB.students = [
   {
     "name": "Lovleen Gupta",
     "status": "alumni",
-    "photo": "",
+    "photo": "assets/images/lovleen_gupta.jpeg",
     "joined": "",
     "graduated": "Oct-2022",
     "expectedGraduation": "",

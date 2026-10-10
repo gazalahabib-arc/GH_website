@@ -61,12 +61,12 @@ window.LAB.students = [
   {
     "name": "Himanshu Jhariya",
     "status": "current",
-    "photo": "",
+    "photo": "assets/images/himanshu_jhariya.jpeg",
     "joined": "July-2025",
     "graduated": "",
     "expectedGraduation": "",
     "thesis": "TBD",
-    "coSupervisor": " ",
+    "coSupervisor": "Prof. Joseph V Puthussery (Civil Engg., IIT-D)",
     "affiliation": ""
   },
   {
@@ -85,7 +85,7 @@ window.LAB.students = [
     "status": "current",
     "photo": "",
     "joined": "July-2025",
-    "graduated": "",
+    "graduated": "assets/images/shobha_meena.jpeg",
     "expectedGraduation": "",
     "thesis": "Sustainable emission pathways for India to achieve net zero",
     "coSupervisor": "Prof. Sagnik Dey (CAS, IIT-D)",

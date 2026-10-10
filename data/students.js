@@ -83,9 +83,9 @@ window.LAB.students = [
   {
     "name": "Shobha Meena",
     "status": "current",
-    "photo": "",
+    "photo": "assets/images/shobha_meena.jpeg",
     "joined": "July-2025",
-    "graduated": "assets/images/shobha_meena.jpeg",
+    "graduated": "",
     "expectedGraduation": "",
     "thesis": "Sustainable emission pathways for India to achieve net zero",
     "coSupervisor": "Prof. Sagnik Dey (CAS, IIT-D)",

@@ -24,7 +24,7 @@ window.LAB.staff = [
     "name": "Rahul Kumar",
     "status": "current",
     "designation": "Project Assistant (Technical)",
-    "photo": "",
+    "photo": "assets/images/rahul_kumar.jpeg",
     "joined": "Jun-2017",
     "left": "",
     "research": "On-field ambient and source measurements",

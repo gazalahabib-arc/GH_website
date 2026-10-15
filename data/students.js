@@ -105,7 +105,7 @@ window.LAB.students = [
   {
     "name": "Jai Prakash",
     "status": "alumni",
-    "photo": "",
+    "photo": "assets/images/jaiprakash.jpeg",
     "joined": "",
     "graduated": "Jun-2017",
     "expectedGraduation": "",
